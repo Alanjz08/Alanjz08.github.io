@@ -6,7 +6,8 @@ El sensor DHT22 es un sensor de temperatura y humedad que se utiliza comúnmente
 ## Imagenes
 
 - Sensor DHT22
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-yo2n39m6g3%2Fimages%2Fstencil%2F1280x1280%2Fproducts%2F109%2F3010%2Fqc__50784.1567256229.png%3Fc%3D2%3Fimbypass%3Don&f=1&nofb=1&ipt=04b02a1181850a239a780c9141ee878407985a569515f23a7fbbf05e22dd27e0&ipo=images" alt="Sensor DHT22" width="500" height="450">
+<img src="https://mielectronicafacil.com/wp-content/uploads/2020/08/dht22-pines.jp" alt="Sensor DHT22" width="500" height="450">
+
 
 ## Conexión del sensor
 
@@ -15,11 +16,19 @@ El sensor DHT22 tiene cuatro pines: VCC, GND, Data y NC (No Conectado). Aquí es
 - Conecta el pin VCC a la fuente de alimentación (generalmente 3.3V o 5V).
 - Conecta el pin GND a tierra (GND) en tu placa.
 - Conecta el pin Data a un pin digital en tu placa (por ejemplo, GPIO4 en una Raspberry Pi o D2 en un Arduino).
+
 <img src="https://www.hwlibre.com/wp-content/uploads/2019/07/pinout-dht11.jpg.webp" width="600" height="500">
+
+| Pin  | Descripción                                                  |
+|------|--------------------------------------------------------------|
+| VCC  | Pin (+) Conexión a fuente de alimentación desde 3.3V a 5.5V  |
+| DATA | Emite temperatura y humedad a través de datos en serie       |
+| NC   | Sin conexión, no utilizar                                    |
+| GND  | Pin (-) Conexión a GND o Tierra de la fuente de alimentación |
 
 ## Caracteristicas
 
-- Alimentación de 3,3v a 6v.
+- Alimentación de 3,3v a 5.5v.
 - Consumo de corriente de 2,5mA
 - Señal de salida digital
 - Rango de temperatura de -40ºC a 125ºC
