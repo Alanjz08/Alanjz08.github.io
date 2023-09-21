@@ -6,7 +6,7 @@ El sensor DHT22 es un sensor de temperatura y humedad que se utiliza comúnmente
 ## Imagenes
 
 - Sensor DHT22
-<img src="https://mielectronicafacil.com/wp-content/uploads/2020/08/dht22-pines.jp" alt="Sensor DHT22" width="500" height="450">
+<img src="https://ae01.alicdn.com/kf/HTB1SyuwoL9TBuNjy0Fcq6zeiFXaE/Temperature-and-Humidity-sensor-DHT22.jpg" alt="Sensor DHT22" width="500" height="500">
 
 
 ## Conexión del sensor
