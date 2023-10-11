@@ -3,8 +3,12 @@
 
 # Practicas
 ## Hola Mundo
+Codigo en [HolaMundo.py](HolaMundo.py)
+
+![Hola mundo en oled](Imagenes/holamundopico.jpg)
 
 ## Hora en oled
+![Hora en oled](Imagenes/horapico.jpg)
 
 ## Temperatura
 
