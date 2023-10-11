@@ -8,6 +8,8 @@ Codigo en [HolaMundo.py](HolaMundo.py)
 ![Hola mundo en oled](Imagenes/holamundopico.jpg)
 
 ## Hora en oled
+Codigo en [Hora.py](Hora.py)
+
 ![Hora en oled](Imagenes/horapico.jpg)
 
 ## Temperatura
