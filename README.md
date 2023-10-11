@@ -1,12 +1,12 @@
 # SistemasProgramables 
 ---------
 
-#Practicas
-##Hola Mundo
+# Practicas
+## Hola Mundo
 
-##Hora en oled
+## Hora en oled
 
-##Temperatura
+## Temperatura
 
 
 ## Sensor DHT22
