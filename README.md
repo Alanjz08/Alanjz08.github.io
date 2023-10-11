@@ -1,5 +1,15 @@
-# SistemasProgramables
-# Sensor DHT22
+# SistemasProgramables 
+---------
+
+#Practicas
+##Hola Mundo
+
+##Hora en oled
+
+##Temperatura
+
+
+## Sensor DHT22
 
 El sensor DHT22 es un sensor de temperatura y humedad que se utiliza comúnmente con placas de desarrollo como Arduino y Raspberry Pi. 
 
