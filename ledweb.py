@@ -8,8 +8,8 @@ ledState = "Led State Unknown"
 
 button = Pin(16, Pin.IN, Pin.PULL_UP)
 
-ssid = "INFINITUM4BA2_2.4"
-password = "6365Aliv"
+ssid = ""
+password = ""
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
